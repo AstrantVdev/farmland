@@ -1,0 +1,45 @@
+FarmProductionDaySave: 7
+MaxRarity: 4
+DailyFarmDropLosePercentage: 10
+TeleportCooldow: 5
+Errors:
+  DontExist: Cette commande n'existe pas!
+  Grief: Cette ZONE est protegee!
+  Is: 
+    Farm: Cette ferme n'existe pas!
+    Farms: Il n'y a pas de Farms!
+    Drop: Ce Drop n'existe pas!
+    Drops: Il n'y a pas de Drops!
+    Tool: Ce Tool n'existe pas!
+    Tools: Il n'y a pas de Tools!
+    Block: Ce Block n'existe pas!
+    Blocks: Il n'y a pas de Blocks!
+    DropEvent: Ce DropEvent n'existe pas!
+    DropEvents: Il n'y a pas de DropEvents pour ce Drop!
+    Particle: Cette Particle n'existe pas!
+    Int: Ce n'est pas un Nombre!
+    BlockToolDrop: Ce BlockTool ne possede pas de Drop de ce nom!
+    BlockTool: Ce Block ne possede pas de Tool de ce nom!
+    Plot: Ce Plot n'existe pas!
+    MarketType: Ce n'est pas un type de vente!
+    MarketSellDrop: Ce n'est pas un Drop vendable pas la Farm!
+    MarketBuyDrop: Ce n'est pas un Drop achetable pas la Farm!
+    FarmerType: Ce n'est pas un type de Farmer!
+    Farmers: Il n'y a pas de Farmers dans cette Farm!
+    Farmer: Ce Farmer n'existe pas!
+  IsAlready:
+    Drop: Ce Drop existe deja!
+    DropName: Ce nom de Drop existe deja!
+    Plot: Ce Plot est deja claim par une autre Farm!
+    Farm: Cette Farm existe deja!
+    Tool: Ce Tool existe deja!
+    ToolName: Ce nom de Tool existe deja!
+  NothinginHand: Tu n'as rien dain ta main!
+  Player:
+    Money: Tu n'as pas assez d'argent!
+    Space: Tu n'as pas assez de place dans ton inventaire!
+  Buy:
+    NotEnough: Tu n'as pas assez de Drops dans ton inventaire!
+  Sell:
+    NotEnough: La Farm ne possede pas assez de Drops!
+  FarmerTypeTwice: Tu as ecrit deux fois le meme type de Farmer!

@@ -1,0 +1,9 @@
+name: FarmLand
+version: 1.0
+author: astrant
+main: fr.astrant.farmland.Main
+depend: [Vault, Citizens]
+commands:
+  farmland:
+    permission: farmland.admin
+api-version: 1.16
